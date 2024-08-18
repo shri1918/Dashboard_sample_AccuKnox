@@ -1,3 +1,5 @@
+npm install --first 
+
 #### Dashboard Application
 This is a React-based Dashboard Application that allows users to manage widgets across different categories. The application includes features such as adding, removing, and hiding widgets, as well as filtering widgets by name using a search bar.
 
